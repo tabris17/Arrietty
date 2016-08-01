@@ -1,0 +1,19 @@
+.hidden{visibility:none;height:0;width:0;}
+#failure{display:none;}
+
+.caret-up{
+    display: inline-block;
+    width: 0;
+    height: 0;
+    margin-left: 2px;
+    vertical-align: middle;
+    border-bottom: 4px solid;
+    border-right: 4px solid transparent;
+    border-left: 4px solid transparent;
+}
+
+.page-header{margin:0 0 10px 0;padding:0;}
+.page-header h1{margin:0;line-height:80px;}
+
+.navbar-form{width:250px;}
+#search-title,#search-abstract,#search-all{cursor:pointer;}
